@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+'''
+    author:         Gupern
+    createdDate:    2018-3-28
+    lastModified:   2018-3-28 
+
+'''
 import argparse
 from pyDes import *
 import sys 
